@@ -10,7 +10,7 @@ Kurzbeschreibung zu Hemmnisanalyse um ein erstes Verständnis dafür zu schaffen
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar 
+# Hier ein Beispieltext mit ein paar Verlink. 
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
