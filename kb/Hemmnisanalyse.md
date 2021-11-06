@@ -14,7 +14,7 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 ## Definition
 
-Die Hemmnisanalyse gehört zu dem Überbegriff des [Klassischen Projektmanagement] (https://de.wikipedia.org/wiki/Projektmanagement). 
+Die Hemmnisanalyse gehört zu dem Überbegriff des [Klassischen Projektmanagement](https://de.wikipedia.org/wiki/Projektmanagement). 
 Hierbei ist das Projekt sehr strukturiert aufgebaut und zu Beginn alle Ziele und Phasen definiert. 
 Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug da,
 mit welchem mögliche Probleme in der Zukunft entgegengewirkt werden soll.[^1]
@@ -98,6 +98,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Hemmnisanalyse Wikipedia](https://de.wikipedia.org/wiki/Hemmnisanalyse)
 [^2]: [Hemmnisse analysieren und überwinden](https://www.researchgate.net/publication/319475002_Hemmnisse_analysieren_und_uberwinden)
-[^3]: [Hemmnisse in Entscheidungsprozessen - Entstehungsfaktoren, deren Messung und Bewertung: Systematisierung und Analyse theoretischer und empirischer Ergebnisse] (https://tu-dresden.de/bu/wirtschaft/bwl/bu/forschung/forschungsprojekte/projekte/hemmnisanalyse)
+[^3]: [Hemmnisse in Entscheidungsprozessen - Entstehungsfaktoren, deren Messung und Bewertung: Systematisierung und Analyse theoretischer und empirischer Ergebnisse](https://tu-dresden.de/bu/wirtschaft/bwl/bu/forschung/forschungsprojekte/projekte/hemmnisanalyse)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
