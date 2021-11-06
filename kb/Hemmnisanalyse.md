@@ -2,7 +2,7 @@
 title: Hemmnisanalyse
 tags: agil klassisch
 author: biancamg
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Hemmnisanalyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
@@ -10,7 +10,12 @@ Kurzbeschreibung zu Hemmnisanalyse um ein erstes Verständnis dafür zu schaffen
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlink. 
+# Die Hemmnisanalyse 
+
+Die Hemmnisanalyse gehört zu dem Überbegriff des Klassischen Projektmanagements. 
+Hierbei ist das Projekt sehr strukturiert aufgebaut und zu Beginn alle Ziele und Phasen definiert. 
+Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug da,
+mit welchem mögliche Probleme in der Zukunft entgegengewirkt werden soll.
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
