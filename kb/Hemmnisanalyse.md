@@ -14,17 +14,10 @@ oben im Front-Matter (Bereich zwischen den `---`).
 
 ## Definition
 
-Die Hemmnisanalyse gehört zu dem Überbegriff des Klassischen Projektmanagements. 
+Die Hemmnisanalyse gehört zu dem Überbegriff des [Klassischen Projektmanagement] (https://de.wikipedia.org/wiki/Projektmanagement). 
 Hierbei ist das Projekt sehr strukturiert aufgebaut und zu Beginn alle Ziele und Phasen definiert. 
 Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug da,
 mit welchem mögliche Probleme in der Zukunft entgegengewirkt werden soll.[^1]
-
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
 
 Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
 Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
@@ -36,30 +29,33 @@ Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer!
 Für Probleme bei der Durchführung eines Projektes kann es viele Ursachen geben. Die Anzahl der Entscheidungsakteure in einem Projekt kann zu einem Hemmnis
 werden, dies ist auch auf die Kompetenz der Akteure zurück zu führen. So können auch Hemmnisse entstehen bei Machtstrukturen. Es [stehen die Personen der
 operativen Ebene, das heißt die Spezialisten mit Fachwissen, den Personen der strategischen Ebene, das heißt Bereichsleitern oder Politikern, in hierarchisch
-höherstehender Position gegenüber]. Es werden bei der Hemmnisanalyse tatsächliche Gegebenheiten geprüft, um Hindernisse zu identifizieren. Da Entscheidungsträger
-aufgrund ihrer Wahrnehmung Entscheidungen treffen, sind die wahrgenommenen Hemmnisse von zentraler Bedeutung.
+höherstehender Position gegenüber][^2]. Es werden bei der Hemmnisanalyse tatsächliche Gegebenheiten geprüft, um Hindernisse zu identifizieren. Da
+Entscheidungsträger aufgrund ihrer Wahrnehmung Entscheidungen treffen, sind die wahrgenommenen Hemmnisse von zentraler Bedeutung.
 
 
-# Aspekt 1
+## Durchführung einer Hemmnisanalyse
+Eine Hemmnisanalyse besteht aus drei Schritten, die Befragung, die Auswertung und zuletzt die Beurteilung der Ergebnisse sowie Strategien zur Überwindung der
+Hemmnisse. Diese Schritte entwickelte die Technische Universität Dresden. 
+### 1. Schritt
+Für die erste Phase der Analyse werden Teilnehmer ausgewählt, die in Verbindung zu dem
+Projekt stehen. Die Teilnehmer bewerten das sogenannte Hemmnisprofil, in welchem mögliche Hindernisse von den Partizipierenden als relevante Hemmnisse, oder
+nicht relevante, eingeordnet werden. 
+### 2. Schritt
+Wahrgenommenen Hemmnisse werden bewertet und von weniger relevanten Hemmnissen zu sehr relevanten geordnet, dies stellt den zweiten Schritt der Analyse dar.
+Hierbei kann es sein, dass die Wahrnehmung der Befragten stark variiert. Hier können Veränderungsprozesse beginnen.  
+### 3. Schritt
+Der dritte Schritt beinhaltet vor allem die Beurteilung sowie das Herausarbeiten von Strategien zur Bewältigung dieser Hemmnisse. Dabei gibt es mehrere
+unterschiedliche Strategien. Eine Organisation ist ein Vorbild für andere Organisationen, Maßnahmen werden ergriffen, um das Ziel zu erreichen, dies bezeichnet
+das Best-Practice Sharing. Mithilfe der Entscheidungsanalyse werden mit Akteuren Maßnahmen erörtert, die das Hemmnis beheben sollen. Es kann unter anderem
+ermittelt werden, warum es bestimmte Schwachstellen gibt. Daraus können konkret Verbesserungsvorschläge zu künftigen Maßnahmen getroffen werden, dies stellt die
+Problemanalyse dar. [^3]
 
-Aspekte zu Themen können ganz unterschiedlich sein:
-
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
 
 ![Beispielabbildung](Hemmnisanalyse/test-file.jpg)
 
 *lustiges Testbild*
 
-# Aspekt 2
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
 
 ## Hier eine Ebene-2-Überschrift unter Aspekt 2
 
@@ -102,6 +98,6 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 [^1]: [Hemmnisanalyse Wikipedia](https://de.wikipedia.org/wiki/Hemmnisanalyse)
 [^2]: [Hemmnisse analysieren und überwinden](https://www.researchgate.net/publication/319475002_Hemmnisse_analysieren_und_uberwinden)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[^3]: [Hemmnisse in Entscheidungsprozessen - Entstehungsfaktoren, deren Messung und Bewertung: Systematisierung und Analyse theoretischer und empirischer Ergebnisse] (https://tu-dresden.de/bu/wirtschaft/bwl/bu/forschung/forschungsprojekte/projekte/hemmnisanalyse)
 [^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 
