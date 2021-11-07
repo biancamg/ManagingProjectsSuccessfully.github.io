@@ -14,8 +14,9 @@ Die Hemmnisanalyse gehört zu dem Überbegriff des [Klassischen Projektmanagemen
 Hierbei ist das Projekt sehr strukturiert aufgebaut und zu Beginn alle Ziele und Phasen definiert. 
 Wie bei jedem Projekt können Störfaktoren auftreten, die den Ablauf des Projektes verzögern oder komplett verhindern. Die Hemmnisanalyse stellt ein Werkzeug da,
 mit welchem mögliche Probleme in der Zukunft entgegengewirkt werden soll.[^1]
-Die Hemmnisanalyse wurde durch das Europäisches Forschungsprojekt Relief, sowie der deutschen Forschungsprojekte NaBesl und GeB entwickelt. Die Analyse zielt
-hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab. Die Hemmnisanalyse beschäftigt sich vorallem mit dem erkennen von relevanten Akteuren und das erkennen und bewerten von Hindernissen. [^2]
+Die Hemmnisanalyse wurde durch das Europäisches Forschungsprojekt [Relief](https://tudresden.de/bu/wirtschaft/bwl/bu/forschung/forschungsprojekte/projekte/relief), sowie der deutschen Forschungsprojekte [NaBesI](https://tu-dresden.de/bu/wirtschaft/bwl/bu/forschung/forschungsprojekte/projekte/nabesi) und [GeB](https://tu-dresden.de/bu/wirtschaft/bwl/bu/forschung/forschungsprojekte/projekte/green_ebusiness) entwickelt. Die Analyse zielt
+hierbei im engeren Sinne auf Hindernisse bei der umweltfreundlichen Beschaffung ab. Die Hemmnisanalyse beschäftigt sich vorallem mit dem erkennen von relevanten
+Akteuren und das erkennen und bewerten von Hindernissen. [^2]
 
 
 
