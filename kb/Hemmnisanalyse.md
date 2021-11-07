@@ -81,9 +81,9 @@ Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuie
 
 # Siehe auch
 
-* [Umweltfreundliche Beschaffung](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/umweltfreundliche_beschaffung_script_6.pdf)
+* [Ratgeber zu Umweltfreundliche Beschaffung](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/umweltfreundliche_beschaffung_script_6.pdf)
 * [Metastudie Potenzial- und Hemmnisanalyse](https://arepoconsult.com/wp-content/uploads/2019/11/metastudie-hemmnisse.pdf)
-* [Umweltfreundliche öffentliche Beschaffung](https://www.youtube.com/watch?v=R_A-uMCSrwg)
+* [Video zu Umweltfreundliche öffentliche Beschaffung](https://www.youtube.com/watch?v=R_A-uMCSrwg)
 
 
 # Weiterführende Literatur
