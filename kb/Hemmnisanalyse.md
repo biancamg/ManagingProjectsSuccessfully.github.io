@@ -29,10 +29,10 @@ Entscheidungsträger aufgrund ihrer Wahrnehmung Entscheidungen treffen, sind die
 
 Entstehung von Hemmnissen:
 
-| Dürfen  | Wollen | Wissen | Können |
-| ------------- | ------------- |
-| Unternehmensziel  | Verlustängste  | Routinen | Ressourcen |
-| Content Cell  | Content Cell  |
+| Dürfen           | Wollen        | Wissen        | Können        |
+| -------------    | ------------- | ------------- | ------------- |
+| Unternehmensziel | Verlustängste | Routinen      | Ressourcen    |
+| Content Cell     | Content Cell  | Content Cell  | Content Cell  |
 
 
 ## Durchführung einer Hemmnisanalyse
