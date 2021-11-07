@@ -27,7 +27,7 @@ operativen sowie der strategischen Ebene. Die opertive Ebene hat das Fachwissen 
 hierarchisch höherstehende Ebene darstellt. Es werden bei der Hemmnisanalyse tatsächliche Gegebenheiten geprüft, um Hindernisse zu identifizieren. Da
 Entscheidungsträger aufgrund ihrer Wahrnehmung Entscheidungen treffen, sind die wahrgenommenen Hemmnisse von zentraler Bedeutung.[^3]
 
-Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können. 
+### Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können. 
 Die erste Hemmnisgruppe des **Dürfens** beschreibt Hemmnisse, die durch unklar definierte Ziele entstehen können. Fehlende Unterstützung seitens der
 Führungsebene kann zum Beispiel zur Hemmung führen. Akteure können somit nicht identifizieren ob sie sich engagieren dürfen oder nicht.
 Die Gruppe **Wollen** beschreibt individuelle Ziele von Akteuren. Akteure wollen Entscheidungen nicht unterstützen, wenn es ihren inneren Einstellungen widerspricht.
@@ -64,26 +64,25 @@ ermittelt werden, warum es bestimmte Schwachstellen gibt. Daraus können konkret
 Problemanalyse dar. [^4]
 
 
-## Fazit
-Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuierliche Verbesserung dar. Hemmnisse können so frühzeitig erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden.
-
-
-
 ![Beispielabbildung](Hemmnisanalyse/test-file.jpg)
 
 *lustiges Testbild*
 
 
+## Fazit
+Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuierliche Verbesserung dar. Hemmnisse können so frühzeitig erkannt werden und mithilfe von Strategien und Maßnahmen überwältigt werden.
+
 
 
 # Siehe auch
 
-* [Projektmanagment](https://de.wikipedia.org/wiki/Projektmanagement)
+* [Umweltfreundliche Beschaffung](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/umweltfreundliche_beschaffung_script_6.pdf)
+* [Metastudie Potenzial- und Hemmnisanalyse](https://arepoconsult.com/wp-content/uploads/2019/11/metastudie-hemmnisse.pdf)
 
 
 # Weiterführende Literatur
 
-* [Umweltfreundliche Beschaffung](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/umweltfreundliche_beschaffung_script_6.pdf)
+* 
 
 
 # Quellen
