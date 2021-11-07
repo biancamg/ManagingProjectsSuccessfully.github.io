@@ -27,6 +27,13 @@ operativen sowie der strategischen Ebene. Die opertive Ebene hat das Fachwissen 
 hierarchisch höherstehende Ebene darstellt. Es werden bei der Hemmnisanalyse tatsächliche Gegebenheiten geprüft, um Hindernisse zu identifizieren. Da
 Entscheidungsträger aufgrund ihrer Wahrnehmung Entscheidungen treffen, sind die wahrgenommenen Hemmnisse von zentraler Bedeutung.[^3]
 
+Entstehung von Hemmnissen:
+
+| Dürfen  | Wollen | Wissen | Können |
+| ------------- | ------------- |
+| Unternehmensziel  | Verlustängste  | Routinen | Ressourcen |
+| Content Cell  | Content Cell  |
+
 
 ## Durchführung einer Hemmnisanalyse
 Eine Hemmnisanalyse besteht aus drei Schritten, die Befragung, die Auswertung und zuletzt die Beurteilung der Ergebnisse sowie Strategien zur Überwindung der
@@ -55,15 +62,6 @@ Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuie
 
 *lustiges Testbild*
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
-
-So kann man eine Tabelle erstellen:
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 
 
 
@@ -75,6 +73,7 @@ So kann man eine Tabelle erstellen:
 # Weiterführende Literatur
 
 * [Umweltfreundliche Beschaffung](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/umweltfreundliche_beschaffung_script_6.pdf)
+
 
 # Quellen
 
