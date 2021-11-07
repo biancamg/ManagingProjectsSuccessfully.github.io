@@ -31,10 +31,13 @@ Entscheidungen treffen, sind die wahrgenommenen Hemmnisse von zentraler Bedeutun
 ### Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können. 
 Die erste Hemmnisgruppe des **Dürfens** beschreibt Hemmnisse, die durch unklar definierte Ziele entstehen können. Fehlende Unterstützung seitens der
 Führungsebene kann zum Beispiel zur Hemmung führen. Akteure können somit nicht identifizieren ob sie sich engagieren dürfen oder nicht.
+
 Die Gruppe **Wollen** beschreibt individuelle Ziele von Akteuren. Akteure wollen Entscheidungen nicht unterstützen, wenn es ihren inneren Einstellungen
-widerspricht. Man könnte bei diesem Hindernis auch von einem personellen Widerstand sprechen.  
+widerspricht. Man könnte bei diesem Hindernis auch von einem personellen Widerstand sprechen.
+
 Betroffene die aufgrund ihrer Qualifikation oder Leistungsfähigkeit, vorhandene Information nicht nutzen können werden der Gruppe des **Wissens** zugewiesen.
 Wissensbarrieren können den Informationsaustausch hemmen.
+
 Die Hemmnisgruppe **Können** beschreibt ob ein Betroffener in der Lage ist Informationen zu nutzen. Aber nicht nur Informationsmangel kann ein Hindernis
 darstellen, auch das Nichtvorhandensein von Alternativen kann ein Hemmnis darstellen. Begrenzte Ressourcen wie finanzielle oder zeitliche Beschränkungen können
 Entscheidungen hemmen.[^4]
@@ -80,11 +83,14 @@ Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuie
 
 * [Umweltfreundliche Beschaffung](https://www.umweltbundesamt.de/sites/default/files/medien/376/publikationen/umweltfreundliche_beschaffung_script_6.pdf)
 * [Metastudie Potenzial- und Hemmnisanalyse](https://arepoconsult.com/wp-content/uploads/2019/11/metastudie-hemmnisse.pdf)
+* [Umweltfreundliche öffentliche Beschaffung](https://www.youtube.com/watch?v=R_A-uMCSrwg)
 
 
 # Weiterführende Literatur
 
-* 
+* [Hemmnisanalyse](https://www.enzyklo.de/Begriff/Hemmnisanalyse)
+* [Hemmnisanalyse für eine umweltfreundliche Beschaffung](https://www.umweltbundesamt.de/)
+* [ICLEI Europe - Relief project](https://iclei-europe.org/)
 
 
 # Quellen
