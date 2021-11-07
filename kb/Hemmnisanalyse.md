@@ -27,12 +27,23 @@ operativen sowie der strategischen Ebene. Die opertive Ebene hat das Fachwissen 
 hierarchisch höherstehende Ebene darstellt. Es werden bei der Hemmnisanalyse tatsächliche Gegebenheiten geprüft, um Hindernisse zu identifizieren. Da
 Entscheidungsträger aufgrund ihrer Wahrnehmung Entscheidungen treffen, sind die wahrgenommenen Hemmnisse von zentraler Bedeutung.[^3]
 
+Entstehungsgründe für Hemmnisse können in vier Gruppen eingeordnet werden: Dürfen, Wollen, Wissen und Können. 
+Die erste Hemmnisgruppe des **Dürfens** beschreibt Hemmnisse, die durch unklar definierte Ziele entstehen können. Fehlende Unterstützung seitens der
+Führungsebene kann zum Beispiel zur Hemmung führen. Akteure können somit nicht identifizieren ob sie sich engagieren dürfen oder nicht.
+Die Gruppe **Wollen** beschreibt individuelle Ziele von Akteuren. Akteure wollen Entscheidungen nicht unterstützen, wenn es ihren inneren Einstellungen widerspricht.
+Man könnte bei diesem Hindernis auch von einem personellen Widerstand sprechen.  
+Betroffene die aufgrund ihrer Qualifikation oder Leistungsfähigkeit, vorhandene Information nicht nutzen können werden der Gruppe des **Wissens** zugewiesen.
+Wissensbarrieren können den Informationsaustausch hemmen.
+Die Hemmnisgruppe **Können** beschreibt ob ein Betroffener in der Lage ist Informationen zu nutzen. Aber nicht nur Informationsmangel kann ein Hindernis darstellen, auch das Nichtvorhandensein von Alternativen kann ein Hemmnis darstellen. Begrenzte Ressourcen wie finanzielle oder zeitliche Beschränkungen können
+Entscheidungen hemmen.[^4]
+
+
 Entstehung von Hemmnissen:
 
 | Dürfen           | Wollen        | Wissen        | Können        |
 | -------------    | ------------- | ------------- | ------------- |
-| Unternehmensziel | Verlustängste | Routinen      | Ressourcen    |
-| Content Cell     | Content Cell  | Content Cell  | Content Cell  |
+| unklare Zieldefinition | Persönliche Überzeugnungen | fehlende Qualifikation      | begrenzte Ressourcen    |
+| Barrieren durch Führungskräfte | Abwehrhaltung von Akteueren  | Wissensbarrieren  | Informationsmangel |
 
 
 ## Durchführung einer Hemmnisanalyse
@@ -68,7 +79,7 @@ Die vollumfängliche Analyse der Hemmnisse stellt eine Basis für eine kontinuie
 # Siehe auch
 
 * [Projektmanagment](https://de.wikipedia.org/wiki/Projektmanagement)
-* 
+
 
 # Weiterführende Literatur
 
